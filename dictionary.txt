@@ -1,21 +1,21 @@
-Raesfeld -
+Raesfeld - a municipality 
 Flughafen - Airport
-Berlin -
-Bratwurst -
+Berlin - city
+Bratwurst - sausage
 Hauptstrasse - Main Road
-Brot - Loaf
-Gauss 
+Brot - Bread
+Gauss - Carl Friedrich Gauss famous mathematician 
 Klimaanlage - Air conditioner
 RammsteinMusik 
-Porsche 
-BMW 
+Porsche - car
+BMW  - car
 Biergarten - Beer garden
-Ratskeller 
-Dirndel 
-Lederhose 
-Audi 
-Schloss - Lock
-Munich 
+Ratskeller - basement bar or restaurant  
+Dirndel - traditional German dress
+Lederhose - Dirndel - traditional German breeches (pants/overalls)
+Audi  - car
+Schloss - Lock/castle
+Munich - city
 wet-tbewerbsfaehig - competitive
 Mehlhase - Flour bunny
 Gebaeck - Pastries
